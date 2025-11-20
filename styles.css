@@ -156,7 +156,7 @@ LANDING
 
 
 #landing {
-    background-color: rgba(66, 152, 214, 0.1);
+    background-color: rgba(5, 64, 104, 0.285);
 }
 
 header {
@@ -319,7 +319,7 @@ FEATURES
 
 #features {
     padding-top: 8vw;
-    background-color: rgba(66, 152, 214, 0.1);
+    background-color: rgba(5, 64, 104, 0.285);
 }
 
 .books {
@@ -377,7 +377,7 @@ EXPLORE
 */
 
 #explore {
-    background-color: rgba(66, 152, 214, 0.1); 
+    background-color: rgba(5, 64, 104, 0.285); 
 }
 
 /* 
