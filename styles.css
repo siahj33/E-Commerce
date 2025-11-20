@@ -48,12 +48,13 @@ a:hover {
     margin: 0 auto;
 }
 
-.purple {
-    color: #7342d6;
+.blue {
+    color: #428ed6;
 }
 
 .logo {
     width: 200px;
+    filter: grayscale(1); 
 }
 
 ul {
@@ -69,7 +70,7 @@ list-style-type: none;
     margin-left: 16px;
     text-decoration: none;
     font-size: 20px;
-    color: #7342d6;
+    color: #428ed6;
     font-weight: bold;
     padding: 8px;
 }
@@ -79,7 +80,7 @@ list-style-type: none;
 }
 
 .nav__link--primary {
-    border: 2px solid #7342d6;
+    border: 2px solid #428ed6;
     border-radius: 4px;
 }
 
@@ -92,13 +93,13 @@ list-style-type: none;
     font-size: 40px;
     text-align: center;
     border: none;
-    color: #7342d6;
+    color: #428ed6;
     display: none;
 }
 
 .menu__backdrop {
     position: absolute;
-    background-color: #242424;
+    background-color: #07025d;
     top: 0;
     left: 0;
     right: 0;
@@ -155,7 +156,7 @@ LANDING
 
 
 #landing {
-    background-color: rgba(115, 66, 214, 0.1);
+    background-color: rgba(66, 152, 214, 0.1);
 }
 
 header {
@@ -180,7 +181,7 @@ header {
 
 h1 {
     font-size: 56px;
-    color: #7342d6;
+    color: #428ed6;
     margin-bottom: 24px;
     text-align: center;
 
@@ -201,7 +202,7 @@ button:active {
 }
 
 .btn {
-    background-color: #7342d6;
+    background-color: #428ed6;
     color: white;
     padding: 12px 24px;
     font-size:  20px;
@@ -289,7 +290,7 @@ transform: translateY(-100%)
 
 
 .highlight__img {
-    border: 2px solid #7342d656;
+    border: 2px solid #4273d656;
     width: 100px;
     height: 100px;
     display: flex;
@@ -298,7 +299,7 @@ transform: translateY(-100%)
     border-radius: 4px;
     font-size: 32px;
     margin-bottom: 24px;
-    color: #7342d6;
+    color: #428ed6;
     
 }
 
@@ -318,7 +319,7 @@ FEATURES
 
 #features {
     padding-top: 8vw;
-    background-color: rgba(115, 66, 214, 0.1);
+    background-color: rgba(66, 152, 214, 0.1);
 }
 
 .books {
@@ -376,7 +377,7 @@ EXPLORE
 */
 
 #explore {
-    background-color: rgba(115, 66, 214, 0.1); 
+    background-color: rgba(66, 152, 214, 0.1); 
 }
 
 /* 
